@@ -1,0 +1,13 @@
+My = { "Bill", "Gates","<Microsoft>", 48917579 },
+My2 = { "Isaac", "Newton","<Physics>", 3260078 },
+My3 = { "Henry", "Ford","<Cars>", 6540498 },
+My4 = { "Leonardo", "da Vinci","<Universal Genius>", 5820648 },
+My5 = { "Sigmund", "Freud","<Psychology>", 98220423 },
+My6 = { "Steve", "Jobs","<Changed the world>", 4890052 },
+My7 = { "Albert", "Einstein","<Physics>", 86264694 },
+My8 = { "Erich-Maria", "Remarque","<Writer>", 60032659 },
+My9 = { "Winston", "Churchill","<Politician>", 4891579 },
+My10 = { "Mahatma", "Gandhi","<Indian activist>", 9440059 },
+My11 = { "Louis", "Pasteur","<Biologist>", 10291779 },
+My12 = { "Fidel", "Castro","<Revolutionary >", 38917579 },
+vs;   // Префикс для структуры(использовали для вывода в консоли)
